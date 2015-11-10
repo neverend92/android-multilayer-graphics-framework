@@ -1,1 +1,1 @@
-# android_multilayer_graphics_framework
+# Framework zur Interaktion mit Multilayer-Grafiken mittels mobilen Endgeräten
